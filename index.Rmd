@@ -193,8 +193,9 @@ Publications.
 
 |               Material                  | Links| 
 | ------------------------------------ | :---: | 
-| Slides | [link]()|
-
+| Slides | [link](https://drive.google.com/file/d/1KbappZRHveCRk7r4ykHGlBxHpgpnZPK9/view?usp=share_link)|
+| Exercício | [link](https://drive.google.com/file/d/17ETPO5fKQ4JB_cCiebGwFy_QpLs-bc2X/view?usp=share_link)|
+| Gabarito | [link](https://drive.google.com/file/d/1bU0S_6SIquZOlCCkCnH8NvBJ8uyZvhN9/view?usp=share_link)|
 
 # **Aula 4: Modelo de Regressão Linear Múltipla**
 
